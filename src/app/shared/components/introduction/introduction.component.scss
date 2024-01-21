@@ -3,6 +3,7 @@
   justify-content: space-between;
   margin-top: 20px;
   padding-top: 200px;
+
   img {
     width: 300px;
     height: 300px;
@@ -23,6 +24,14 @@
   }
   .intro_text {
     color: #fff;
+  }
+  .text {
+    font-size: 40px;
+    animation-delay: 70s;
+    color: #0ef;
+    // font-family: fangsong;
+    font-family: "Rubik Lines", system-ui;
+    text-shadow: 5px 5px 6px #0ef;
   }
   .social_Media {
     a {
